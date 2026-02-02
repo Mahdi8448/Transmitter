@@ -1,0 +1,38 @@
+# === Altium Designer ===
+
+# Backup files
+*.Bak
+*.BAK
+
+# Temporary files
+*.Tmp
+*.TMP
+*.DsnWrk
+*.DsnWrk.*
+*.PcbDocPreview
+*.SchDocPreview
+
+# Output folders
+Project Outputs/
+History/
+__Previews/
+__Snapshots/
+
+# Generated CAM / Fabrication
+*.Ger*
+*.Drill*
+*.Rpt
+*.Rep
+*.Drc
+*.ERC
+
+# Altium caches
+*.PcbLibPreview
+*.SchLibPreview
+
+# Logs
+*.log
+
+# Windows junk
+Thumbs.db
+Desktop.ini
